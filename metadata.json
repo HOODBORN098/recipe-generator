@@ -1,0 +1,7 @@
+{
+  "name": "Culinary Canvas: AI Recipe Generator",
+  "description": "An advanced recipe generator that creates unique dishes based on the ingredients you have on hand. Specify your dietary needs, preferred cuisine, meal type, and desired difficulty to get a custom-tailored recipe, complete with a stunning AI-generated image of the final dish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
